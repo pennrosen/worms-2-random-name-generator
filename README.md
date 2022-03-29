@@ -1,6 +1,4 @@
-# worms-2-random-name-generator
-
-Worms 2 Random Name Generator: A Comprehensive List
+# Worms 2 Random Name Generator: A Comprehensive List
 
 I couldn’t find this anywhere on the internet so I had to get creative and dig up my old installation disc.
 
